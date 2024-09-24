@@ -4,7 +4,7 @@ WORKDIR /app
 
 COPY public . 
 
-COPY package.json .
+COPY packdddddage.json .
 
 RUN yarn install
 
